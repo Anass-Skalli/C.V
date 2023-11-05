@@ -1,4 +1,4 @@
-# Anass SKALLI's CV
+# Anass SKALLI
 
 Welcome to my personal resume repository. Here, you will find information about my professional background, education, technical skills, and projects. Feel free to connect with me via the links below.
 
