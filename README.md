@@ -1,26 +1,26 @@
-# Anass SKALLI
+### Anass SKALLI
 
 Welcome to my personal resume repository. Here, you will find information about my professional background, education, technical skills, and projects. Feel free to connect with me via the links below.
 
-## Contact Information
+### Contact Information
 
 - **Email:** [anass.skalli1@gmail.com](mailto:anass.skalli1@gmail.com)
 - **Phone:** 438-680-3815
 - **Location:** Montréal, QC
 - **LinkedIn:** [Anass Skalli](https://www.linkedin.com/in/anass-skalli)
 
-## Summary
+### Summary
 
 With a strong foundation in information system design, I have developed an Access database for a physiotherapy clinic, demonstrating proficiency in SQL and VBA. I am fluent in French as a native speaker and bilingual in English.
 
-## Education
+### Education
 
 **BACHELOR OF INDUSTRIAL ENGINEERING**  
 _Polytechnique Montréal, Montréal, QC_  
 Specialization: Applied Mathematics  
 Graduation: June 2023
 
-## Professional Experience
+### Professional Experience
 
 **Hydro-Québec, Montréal, QC**  
 _Industrial Engineering Intern_  
@@ -35,7 +35,7 @@ _May 2022 - December 2022_
 - Implementing continuous improvement initiatives and 5S practices.
 - Developing VBA code for automation, leading to a 30% reduction in manual effort.
 
-## Projects and Leadership
+### Projects and Leadership
 
 **Data Annotation, New York, USA**  
 _Python Developer (Remote)_  
