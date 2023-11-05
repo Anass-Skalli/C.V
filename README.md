@@ -1,2 +1,4 @@
-# Portfolio
-Sample of my data science portfolio
+# Data Scientist
+### Education
+
+###Projects
