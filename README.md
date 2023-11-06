@@ -26,7 +26,7 @@ _May 2023 - Present_
 - Supporting decision-making and identifying process improvement opportunities.
 
 **Hydro-Québec, Montréal, QC**  
-_Stagiaire en génie industriel_  
+_Industrial Engineering Intern_  
 _May 2022 - December 2022_
 - Designing AutoCAD plans for workspace optimization.
 - Implementing continuous improvement initiatives and 5S practices.
