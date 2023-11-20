@@ -1,7 +1,7 @@
  Anass SKALLI
 
 **Email:** anass.skalli1@gmail.com  
-**Location:** Montréal, QC | [LinkedIn](#) | [GitHub](#)
+**Location:** Montréal, QC
 
 ## SUMMARY
 - Proficient in information system design: Developed an Access database for a physiotherapy clinic using SQL and VBA.
@@ -34,6 +34,6 @@ Graduation: June 2023
 - Designed and customized a LIMS information system on Access for test laboratories in collaboration with a six-person team, adhering to ISO 17025 standards.
 
 ## TECHNICAL SKILLS
-- Proficiency in Office suite: Excel, PowerPoint, Access, MS-Project et Visio.
+- Proficiency in Office suite: Excel, PowerPoint, Access, MS-Project and Visio.
 - Programming languages: Python (NumPy, Pandas, Matplotlib & Scikit-learn), R, Java, SQL, and VBA.
 
