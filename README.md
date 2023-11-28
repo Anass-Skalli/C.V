@@ -5,7 +5,7 @@
 
 ## SUMMARY
 - Proficient in information system design: Developed an Access database for a physiotherapy clinic using SQL and VBA.
-- Proficient in Data Science: Personal projects on GitHub include Time Series Analysis, Design of Experiment, and Machine Learning, showcasing a diverse range of skills and knowledge.
+- Proficient in Data Science: Personal projects on GitHub include Time Series Analysis, Design of Experiment, and Machine Learning.
 - Languages: French (Native) and English (Bilingual).
 
 ## EDUCATION
